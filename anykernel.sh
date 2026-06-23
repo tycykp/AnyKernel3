@@ -87,7 +87,7 @@ if [ -d /data/adb/magisk ] || [ -f /sbin/.magisk ]; then
 fi
 
 ui_print "开始安装内核..."
-ui_print "Powered by GitHub@Numbersf (Aq1298 & 咿云冷雨)"
+ui_print "Powered by tycykp"
 
 split_boot
 if [ -f "split_img/ramdisk.cpio" ]; then
