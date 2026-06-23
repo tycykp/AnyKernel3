@@ -5,7 +5,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=OnePlus Kernel by Numbersf
+kernel.string=OnePlus Kernel by tycykp
 do.devicecheck=0
 do.modules=0
 do.systemless=0
